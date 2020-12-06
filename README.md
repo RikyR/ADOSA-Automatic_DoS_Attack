@@ -31,6 +31,6 @@ I don't take any responsibility for what you do with this program.</h3>
 <h2 align="center">Screenshot:</h1>
 
 <p align="center">
-    <img src="https://www.linkpicture.com/q/ADOSA-Firefox-Login.jpg" width="55%" height="55%">
-    <img src="https://www.linkpicture.com/q/ADOSA-Firefox-Attack.jpg" width="55%" height="55%">
+    <img src="https://www.linkpicture.com/q/FE-1.jpg" width="55%" height="55%">
+    <img src="https://www.linkpicture.com/q/FE-2.jpg" width="55%" height="55%">
 </p>
