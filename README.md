@@ -28,9 +28,6 @@ I don't take any responsibility for what you do with this program.</h3>
 <h4>1- You need to create an account of www.webstress.io , after doing that, insert your credentials at the login page on the ADOSA app and click the "LOG IN" button.</h4>
 <h4>2- To do the attack you need to complete the different fields (IP Address, Port, Attack Time, Attack Method and Attack Repetition). After doing that, just click the "Start Attack" button, and let the program do the job.</h4>
 
-### License
-This software is unlicensed. See the [license file](LICENSE) file for details.
-
 <h2 align="center">Screenshot:</h1>
 
 <p align="center">
